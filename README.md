@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-This repository contains the core Machine Learning pipeline and the inference API developed during my final-year engineering internship at **Banque Centrale Populaire (BCP)**. The system predicts which MDM (Master Data Management) customers are most likely to adopt digital banking channels.
+This repository contains the core Machine Learning pipeline and the inference API developed during my final-year engineering internship at **Banque Centrale Populaire (BCP)**. The system predicts which MDM (**Marocains du Monde** / Moroccan Diaspora) customers are most likely to adopt digital banking channels.
 
 > **Production Context:** During the internship, the final architecture was deployed on a distributed 3-node Big Data cluster utilizing **Apache Spark** and **Hadoop (HDFS)** for batch processing. 
 > *This specific repository serves as a portfolio demonstration. It focuses on the exploratory Data Science workflow and provides a standalone, containerized version of the real-time inference API.*
